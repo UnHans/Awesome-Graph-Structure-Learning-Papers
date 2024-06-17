@@ -22,9 +22,9 @@
 <tr>
     <td align="center">
         <a href="https://github.com/zzysh12345">
-            <img src="https://avatars.githubusercontent.com/u/72953081?v=4" width="100;" alt="hilinxinhui"/>
+            <img src="https://avatars.githubusercontent.com/u/60538191?v=4" width="50;" alt="hilinxinhui"/>
             <br />
-            <sub><b>Xinhui Lin</b></sub>
+            <sub><b>zzysh12345</b></sub>
         </a>
     </td></tr>
 </table>

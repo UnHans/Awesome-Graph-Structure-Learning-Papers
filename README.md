@@ -26,6 +26,14 @@
             <br />
             <sub><b>zzysh12345</b></sub>
         </a>
-    </td></tr>
+    </td>
+     <td align="center">
+        <a href="https://github.com/HZAUerHans">
+            <img src="https://avatars.githubusercontent.com/u/71540260?v=4" width="50;" alt="hilinxinhui"/>
+            <br />
+            <sub><b>HZAUerHans</b></sub>
+        </a>
+    </td>
+</tr>
 </table>
 <!-- readme: collaborators,contributors -end -->

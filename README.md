@@ -22,14 +22,14 @@
 <tr>
     <td align="center">
         <a href="https://github.com/zzysh12345">
-            <img src="https://avatars.githubusercontent.com/u/60538191?v=4" width="100;" alt="hilinxinhui"/>
+            <img src="https://avatars.githubusercontent.com/u/60538191?v=4" width="120;" alt="hilinxinhui"/>
             <br />
             <sub><b>zzysh12345</b></sub>
         </a>
     </td>
      <td align="center">
         <a href="https://github.com/HZAUerHans">
-            <img src="https://avatars.githubusercontent.com/u/71540260?v=4" width="100;" alt="hilinxinhui"/>
+            <img src="https://avatars.githubusercontent.com/u/71540260?v=4" width="120;" alt="hilinxinhui"/>
             <br />
             <sub><b>HZAUerHans</b></sub>
         </a>

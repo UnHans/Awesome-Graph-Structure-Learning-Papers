@@ -16,4 +16,16 @@
 - [ICML 2023][Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering](https://proceedings.mlr.press/v202/pan23b/pan23b.pdf) aims to adaptively address graph structures with varying levels of homophily. It begins by transforming the graph into homogeneous and heterogeneous graphs. Next, it employs mixed-pass filters to encode graph structure features. Finally, dual encoders are utilized to separately learn attribute and topological features.[[Code](https://github.com/Panern/DGCN)]
 - [KDD 2023][PROSE: Graph Structure Learning via Progressive Strategy](https://dl.acm.org/doi/abs/10.1145/3580305.3599476) aims to progressively identify influential nodes using PageRank scores and reconstruct the graph structure by connecting these influential nodes. This approach prioritizes connecting important nodes within graph. [[Code](https://github.com/tigerbunny2023/PROSE)]
 - [KDD 2023][GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3580305.3599373) This paper aims to learn invariant structural information across diverse graph datasets. The model includes a structure learner and multiple Graph Neural Networks (GNNs) tailored to different graph structures. To streamline structure refinement complexity, the model employs the pivot node trick, avoiding the $O(N^2)$ complexity.[[Code](https://github.com/WtaoZhao/GraphGLOW)]
-
+## Contributors
+<!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/zzysh12345">
+            <img src="https://avatars.githubusercontent.com/u/72953081?v=4" width="100;" alt="hilinxinhui"/>
+            <br />
+            <sub><b>Xinhui Lin</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators,contributors -end -->

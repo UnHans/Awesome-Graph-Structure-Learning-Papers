@@ -1,0 +1,2 @@
+# Awesome-Graph-Structure-Learning-Papers
+An awesome&amp;curated list of the advanced graph structure learning papers(2023-present). We have developed OpenGSL, a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research.

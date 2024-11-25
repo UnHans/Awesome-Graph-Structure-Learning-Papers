@@ -5,6 +5,8 @@
 > \*We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2024
+- **[arxiv 2024]** [Rethinking Structure Learning For Graph Neural Networks](https://arxiv.org/abs/2411.07672) This paper analyzes the mutual information between node representations in learned graphs and their corresponding labels, and claims that the predominant similarity-based GSL models is unnecessary for GNNs.
+- **[NIPS 2024]** [Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning](https://arxiv.org/abs/2409.17386) deal with heterophily node classification datasets.[[Code](https://github.com/zxlearningdeep/InfoMGF)]
 - **[WWW 2024]** [Self-Guided Robust Graph Structure Refinement](https://dl.acm.org/doi/10.1145/3589334.3645522) propose to extract clean subgraphs and refine the extracted graph structure by leveraging both topological and feature similarity. Additionally, it employ a degree-based group training strategy to address the unbalanced degree distribution.[[Code](https://github.com/yeonjun-in/torch-SG-GSR)]
 - **[WWW 2024]**[DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning](https://dl.acm.org/doi/10.1145/3589334.3645561)
 ## 2023

@@ -38,7 +38,7 @@
         <a href="https://github.com/UnHans">
             <img src="https://avatars.githubusercontent.com/u/71540260?v=4" width="120;" alt="hilinxinhui"/>
             <br />
-            <sub><b>HZAUerHans</b></sub>
+            <sub><b>UnHans</b></sub>
         </a>
     </td>
 </tr>

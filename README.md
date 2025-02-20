@@ -5,7 +5,7 @@
 > \*We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
-- **[WWW 2025]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into state-of-the-art GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
+- **[WWW 2025]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
 
 ## 2024
 - **[Arxiv 2024 LLM4GSL]** [Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning](https://arxiv.org/abs/2410.12096) first utilizes a large language model (LLM) to derive cleaned node text information, and then adopts an iterative learning paradigm along with a pseudo-labeling strategy to incorporate text features into the structural representation.

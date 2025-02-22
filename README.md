@@ -1,6 +1,6 @@
 # <img src="https://github.com/OpenGSL/OpenGSL/blob/main/docs/source/img/opengsl.jpg" width="90"> Awesome Graph Structure Learning Papers 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
->An awesome&amp;curated list of the advanced graph structure learning papers(2023-present) with summaries. We will track the development of GSL and update the list frequently. :pray:**Please star us if you found our repository helpful**.
+>An awesome&amp;curated list of the advanced graph structure learning papers(2023-present) with summaries. We will track the development of GSL and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
 
 > \*We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
